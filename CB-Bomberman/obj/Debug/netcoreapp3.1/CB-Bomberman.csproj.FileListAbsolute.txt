@@ -1,0 +1,25 @@
+C:\Users\Toint\source\repos\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.exe
+C:\Users\Toint\source\repos\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.csprojAssemblyReference.cache
+C:\Users\Toint\source\repos\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.AssemblyInfoInputs.cache
+C:\Users\Toint\source\repos\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.AssemblyInfo.cs
+C:\Users\Toint\source\repos\CB-Bomberman\bin\Debug\netcoreapp3.1\VectorInt.dll
+C:\Users\Toint\source\repos\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.csproj.CopyComplete
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.exe
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.deps.json
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.runtimeconfig.json
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.runtimeconfig.dev.json
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CB-Bomberman.pdb
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\Priority Queue.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\VectorInt.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.AssemblyInfoInputs.cache
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.AssemblyInfo.cs
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.csproj.CopyComplete
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.pdb
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.genruntimeconfig.cache
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\bin\Debug\netcoreapp3.1\CodenameGenerator.Lite.dll
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.csproj.CoreCompileInputs.cache
+C:\Users\Toint\source\repos\Bomberman\CB-Bomberman\obj\Debug\netcoreapp3.1\CB-Bomberman.csprojAssemblyReference.cache

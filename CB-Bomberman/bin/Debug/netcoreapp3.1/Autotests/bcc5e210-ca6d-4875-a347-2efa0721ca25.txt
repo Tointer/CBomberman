@@ -1,0 +1,16 @@
+- - - - - - - 
+- - - 0 0 0 O 
+- - 3 3 - - - 
+- - - P - M - 
+0 0 0 - 0 O 0 
+- - - - - - - 
+- - - - - M - 
+DoNothing
+GoRight
+GoLeft
+GoUp
+GoDown
+BombLeft
+BombRight
+BombUp
+BombDown

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Toint\.nuget\packages\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.5.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\adjectives.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\adjectives.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\adjectives.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\adverbs.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\adverbs.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\adverbs.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\cities.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\cities.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\cities.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\countries.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\countries.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\countries.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\female-first-names.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\female-first-names.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\female-first-names.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\first-names.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\first-names.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\first-names.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\job-titles.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\job-titles.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\job-titles.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\last-names.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\last-names.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\last-names.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\male-first-names.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\male-first-names.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\male-first-names.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\nouns.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\nouns.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\nouns.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\us-states.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\us-states.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\us-states.txt</Link>
+    </Content>
+    <Content Include="$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\verbs.txt" Condition="Exists('$(NuGetPackageRoot)codenamegenerator.lite\1.2.14\contentFiles\any\netstandard2.0\Data\verbs.txt')">
+      <NuGetPackageId>CodenameGenerator.Lite</NuGetPackageId>
+      <NuGetPackageVersion>1.2.14</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>Data\verbs.txt</Link>
+    </Content>
+  </ItemGroup>
+</Project>

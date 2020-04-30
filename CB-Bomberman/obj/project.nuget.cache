@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lni6FeI3Tq3QXuS+9Um8nvtIcXqcpAZ+ZuKE+sbmEAa4JU2MaYglO8jJ5bpv1YkHDIfXqlEEECtkG+3TOkW5SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Toint\\source\\repos\\Bomberman\\CB-Bomberman\\CB-Bomberman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Toint\\.nuget\\packages\\codenamegenerator.lite\\1.2.14\\codenamegenerator.lite.1.2.14.nupkg.sha512",
+    "C:\\Users\\Toint\\.nuget\\packages\\morelinq\\3.3.2\\morelinq.3.3.2.nupkg.sha512",
+    "C:\\Users\\Toint\\.nuget\\packages\\optimizedpriorityqueue\\4.2.0\\optimizedpriorityqueue.4.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Toint\\.nuget\\packages\\vectorint\\0.1.5\\vectorint.0.1.5.nupkg.sha512",
+    "C:\\Users\\Toint\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

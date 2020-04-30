@@ -1,0 +1,381 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CodenameGenerator.Lite/1.2.14": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/CodenameGenerator.Lite.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/CodenameGenerator.Lite.dll": {}
+        },
+        "contentFiles": {
+          "contentFiles/any/netstandard2.0/Data/adjectives.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/adverbs.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/cities.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/countries.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/female-first-names.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/first-names.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/job-titles.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/last-names.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/male-first-names.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/nouns.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/us-states.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          },
+          "contentFiles/any/netstandard2.0/Data/verbs.txt": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
+      "morelinq/3.3.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MoreLinq.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MoreLinq.dll": {}
+        }
+      },
+      "OptimizedPriorityQueue/4.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/Priority Queue.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/Priority Queue.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "VectorInt/0.1.5": {
+        "type": "package",
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/VectorInt.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/VectorInt.dll": {}
+        }
+      },
+      "WebSocketSharp-netstandard/1.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/websocket-sharp.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CodenameGenerator.Lite/1.2.14": {
+      "sha512": "0Ur5aJE/39IJ1t3SQQp7kjzHNmlYR1oLkcm1M+eMeRRStIzudKYJTxh5yQd1gCidSgKhoUPL2A0TD0wP3SWTDQ==",
+      "type": "package",
+      "path": "codenamegenerator.lite/1.2.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "codenamegenerator.lite.1.2.14.nupkg.sha512",
+        "codenamegenerator.lite.nuspec",
+        "content/Data/adjectives.txt",
+        "content/Data/adverbs.txt",
+        "content/Data/cities.txt",
+        "content/Data/countries.txt",
+        "content/Data/female-first-names.txt",
+        "content/Data/first-names.txt",
+        "content/Data/job-titles.txt",
+        "content/Data/last-names.txt",
+        "content/Data/male-first-names.txt",
+        "content/Data/nouns.txt",
+        "content/Data/us-states.txt",
+        "content/Data/verbs.txt",
+        "contentFiles/any/netstandard2.0/Data/adjectives.txt",
+        "contentFiles/any/netstandard2.0/Data/adverbs.txt",
+        "contentFiles/any/netstandard2.0/Data/cities.txt",
+        "contentFiles/any/netstandard2.0/Data/countries.txt",
+        "contentFiles/any/netstandard2.0/Data/female-first-names.txt",
+        "contentFiles/any/netstandard2.0/Data/first-names.txt",
+        "contentFiles/any/netstandard2.0/Data/job-titles.txt",
+        "contentFiles/any/netstandard2.0/Data/last-names.txt",
+        "contentFiles/any/netstandard2.0/Data/male-first-names.txt",
+        "contentFiles/any/netstandard2.0/Data/nouns.txt",
+        "contentFiles/any/netstandard2.0/Data/us-states.txt",
+        "contentFiles/any/netstandard2.0/Data/verbs.txt",
+        "lib/netstandard2.0/CodenameGenerator.Lite.dll"
+      ]
+    },
+    "morelinq/3.3.2": {
+      "sha512": "MQc8GppZJLmjvcpEdf3EkC6ovsp7gRWt2e5mC7dcIOrgwSc+yjFd3JQ0iRqr3XrUT6rb/phv0IkEmBtbfVA7AQ==",
+      "type": "package",
+      "path": "morelinq/3.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "COPYING.txt",
+        "lib/net451/MoreLinq.dll",
+        "lib/net451/MoreLinq.pdb",
+        "lib/net451/MoreLinq.xml",
+        "lib/netstandard1.0/MoreLinq.dll",
+        "lib/netstandard1.0/MoreLinq.pdb",
+        "lib/netstandard1.0/MoreLinq.xml",
+        "lib/netstandard2.0/MoreLinq.dll",
+        "lib/netstandard2.0/MoreLinq.pdb",
+        "lib/netstandard2.0/MoreLinq.xml",
+        "morelinq.3.3.2.nupkg.sha512",
+        "morelinq.nuspec"
+      ]
+    },
+    "OptimizedPriorityQueue/4.2.0": {
+      "sha512": "/Sr/OfCFnff7zFe6HoDyWRU8pEvJbOCE9ZjFCSH0EcfETjgvZJ2kUoqlTgVR7cgTPexOGhNATdBKQigqbYn43w==",
+      "type": "package",
+      "path": "optimizedpriorityqueue/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20/Priority Queue.dll",
+        "lib/net20/Priority Queue.pdb",
+        "lib/net20/Priority Queue.xml",
+        "lib/net35-unity full v3.5/Priority Queue.dll",
+        "lib/net35-unity full v3.5/Priority Queue.pdb",
+        "lib/net35-unity full v3.5/Priority Queue.xml",
+        "lib/net35-unity subset v3.5/Priority Queue.dll",
+        "lib/net35-unity subset v3.5/Priority Queue.pdb",
+        "lib/net35-unity subset v3.5/Priority Queue.xml",
+        "lib/net45/Priority Queue.dll",
+        "lib/net45/Priority Queue.pdb",
+        "lib/net45/Priority Queue.xml",
+        "lib/netstandard1.0/Priority Queue.dll",
+        "lib/netstandard1.0/Priority Queue.pdb",
+        "lib/netstandard1.0/Priority Queue.xml",
+        "lib/portable-net40+sl5+win8+wpa81+wp8/Priority Queue.dll",
+        "lib/portable-net40+sl5+win8+wpa81+wp8/Priority Queue.pdb",
+        "lib/portable-net40+sl5+win8+wpa81+wp8/Priority Queue.xml",
+        "optimizedpriorityqueue.4.2.0.nupkg.sha512",
+        "optimizedpriorityqueue.nuspec"
+      ]
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "sha512": "QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/uap10.0.16299/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/System.Numerics.Vectors.dll",
+        "ref/net45/System.Numerics.Vectors.xml",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/uap10.0.16299/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.5.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "VectorInt/0.1.5": {
+      "sha512": "NFtnUf7wo7sYbC7RSNiI4HyRYNe4QKZ3M2pBzZe5ted1Ofp+QEE6aEG3hR+Lv/jmsqIgiNznsdHoU5jZFSRNjw==",
+      "type": "package",
+      "path": "vectorint/0.1.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net47/VectorInt.dll",
+        "lib/netstandard2.0/VectorInt.dll",
+        "vectorint.0.1.5.nupkg.sha512",
+        "vectorint.nuspec"
+      ]
+    },
+    "WebSocketSharp-netstandard/1.0.1": {
+      "sha512": "knoinAv31vbdxXdypnzN2MPX5hyntVLWceq6OdWRXkr9zzqp/RWbxSuLFGbkW8De1061URgNAN43BUTlgMx1CA==",
+      "type": "package",
+      "path": "websocketsharp-netstandard/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/websocket-sharp.dll",
+        "lib/net35/websocket-sharp.xml",
+        "lib/net45/websocket-sharp.dll",
+        "lib/net45/websocket-sharp.xml",
+        "lib/netstandard2.0/websocket-sharp.dll",
+        "lib/netstandard2.0/websocket-sharp.xml",
+        "websocketsharp-netstandard.1.0.1.nupkg.sha512",
+        "websocketsharp-netstandard.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "CodenameGenerator.Lite >= 1.2.14",
+      "OptimizedPriorityQueue >= 4.2.0",
+      "VectorInt >= 0.1.5",
+      "WebSocketSharp-netstandard >= 1.0.1",
+      "morelinq >= 3.3.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Toint\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Toint\\source\\repos\\Bomberman\\CB-Bomberman\\CB-Bomberman.csproj",
+      "projectName": "CB-Bomberman",
+      "projectPath": "C:\\Users\\Toint\\source\\repos\\Bomberman\\CB-Bomberman\\CB-Bomberman.csproj",
+      "packagesPath": "C:\\Users\\Toint\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Toint\\source\\repos\\Bomberman\\CB-Bomberman\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Toint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "CodenameGenerator.Lite": {
+            "target": "Package",
+            "version": "[1.2.14, )"
+          },
+          "OptimizedPriorityQueue": {
+            "target": "Package",
+            "version": "[4.2.0, )"
+          },
+          "VectorInt": {
+            "target": "Package",
+            "version": "[0.1.5, )"
+          },
+          "WebSocketSharp-netstandard": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          },
+          "morelinq": {
+            "target": "Package",
+            "version": "[3.3.2, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

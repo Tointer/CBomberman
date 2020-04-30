@@ -1,0 +1,12 @@
+M - 0 - - - - 
+- - 0 E 2 0 - 
+- - 0 - 1 0 - 
+- - 0 P - 0 - 
+- - - M - 0 - 
+O - - - - - - 
+- - - - - - - 
+DoNothing
+GoLeft
+GoDown
+BombLeft
+BombDown

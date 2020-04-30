@@ -1,0 +1,116 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CB-Bomberman/1.0.0": {
+        "dependencies": {
+          "CodenameGenerator.Lite": "1.2.14",
+          "OptimizedPriorityQueue": "4.2.0",
+          "VectorInt": "0.1.5",
+          "WebSocketSharp-netstandard": "1.0.1",
+          "morelinq": "3.3.2"
+        },
+        "runtime": {
+          "CB-Bomberman.dll": {}
+        }
+      },
+      "CodenameGenerator.Lite/1.2.14": {
+        "runtime": {
+          "lib/netstandard2.0/CodenameGenerator.Lite.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "morelinq/3.3.2": {
+        "runtime": {
+          "lib/netstandard2.0/MoreLinq.dll": {
+            "assemblyVersion": "3.3.2.0",
+            "fileVersion": "3.3.2.0"
+          }
+        }
+      },
+      "OptimizedPriorityQueue/4.2.0": {
+        "runtime": {
+          "lib/netstandard1.0/Priority Queue.dll": {
+            "assemblyVersion": "4.2.0.0",
+            "fileVersion": "4.2.0.0"
+          }
+        }
+      },
+      "System.Numerics.Vectors/4.5.0": {},
+      "VectorInt/0.1.5": {
+        "dependencies": {
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/VectorInt.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "WebSocketSharp-netstandard/1.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/websocket-sharp.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CB-Bomberman/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CodenameGenerator.Lite/1.2.14": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-0Ur5aJE/39IJ1t3SQQp7kjzHNmlYR1oLkcm1M+eMeRRStIzudKYJTxh5yQd1gCidSgKhoUPL2A0TD0wP3SWTDQ==",
+      "path": "codenamegenerator.lite/1.2.14",
+      "hashPath": "codenamegenerator.lite.1.2.14.nupkg.sha512"
+    },
+    "morelinq/3.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-MQc8GppZJLmjvcpEdf3EkC6ovsp7gRWt2e5mC7dcIOrgwSc+yjFd3JQ0iRqr3XrUT6rb/phv0IkEmBtbfVA7AQ==",
+      "path": "morelinq/3.3.2",
+      "hashPath": "morelinq.3.3.2.nupkg.sha512"
+    },
+    "OptimizedPriorityQueue/4.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/Sr/OfCFnff7zFe6HoDyWRU8pEvJbOCE9ZjFCSH0EcfETjgvZJ2kUoqlTgVR7cgTPexOGhNATdBKQigqbYn43w==",
+      "path": "optimizedpriorityqueue/4.2.0",
+      "hashPath": "optimizedpriorityqueue.4.2.0.nupkg.sha512"
+    },
+    "System.Numerics.Vectors/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QQTlPTl06J/iiDbJCiepZ4H//BVraReU4O4EoRw1U02H5TLUIT7xn3GnDp9AXPSlJUDyFs4uWjWafNX6WrAojQ==",
+      "path": "system.numerics.vectors/4.5.0",
+      "hashPath": "system.numerics.vectors.4.5.0.nupkg.sha512"
+    },
+    "VectorInt/0.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NFtnUf7wo7sYbC7RSNiI4HyRYNe4QKZ3M2pBzZe5ted1Ofp+QEE6aEG3hR+Lv/jmsqIgiNznsdHoU5jZFSRNjw==",
+      "path": "vectorint/0.1.5",
+      "hashPath": "vectorint.0.1.5.nupkg.sha512"
+    },
+    "WebSocketSharp-netstandard/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-knoinAv31vbdxXdypnzN2MPX5hyntVLWceq6OdWRXkr9zzqp/RWbxSuLFGbkW8De1061URgNAN43BUTlgMx1CA==",
+      "path": "websocketsharp-netstandard/1.0.1",
+      "hashPath": "websocketsharp-netstandard.1.0.1.nupkg.sha512"
+    }
+  }
+}
